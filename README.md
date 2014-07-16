@@ -1,7 +1,7 @@
-libchm
+libpdf
 ======
 
-OPEN SOURCE, NO ADS, FREE SDK of Micrsoft Compiled Help Manual Format!
+OPEN SOURCE, NO ADS, FREE SDK of Adobe PDF Format!
 
 If you have questions ,you can send me emails at support@formatlaboratory.com
 
